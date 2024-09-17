@@ -1,0 +1,15 @@
+{
+    "encryptedTransaction": "EncryptedData{encryptedData='SbhIk+8ksErm/BpdmuqnQCWKhpZ8Sc2F9ZswvxqUxczpdcBq3HdX4I6RZGYbmt9ugY6keaEM6/5D5R+q8TpCk9b27YQaYIZQFF6DMa2kNKp+bf/5wX7AQABIzIM8O3N+3ozAW4/MhFZfRtlZHIVMRdOj7Bvhqfgx82lRD/6ZXU+z6r180gzw41PCzeeJGliZfIGeGsde6GYrBp956VT/qP9wf0pnTeb43tDy38brLIe32OTEqEMkbzxk/kl6qqTL+lVTzzTykcfXgy7U7BcNSBz2CzuOQAfD4Iomrb0hKhRJOCLNmHQgoRBjNPVE8oG6ptV7SANla/O7Gh4I5lyRFlGVIDIyobsGp2XK/oZMTro=', encryptedAESKey='GjUYF34DsopIU5hrGOQwhsWKE13gDoRNA0IhqGB/lKqlIQ44HRIFdptKdGptFFDTE0NSBlZNkMXEpDyXg00clw8+x6JmK7YBtshFXiiCJzOrtoq1gH7J8q+93bzC9p9tkpQZrHm2kfqiEYObczb8EZ+mdPNHzgEmKWydnhal4HbjInUuKUt64Q8RnotnPacJZlCrlKSZGqKC28SHNuFpVPI1TYK6j/P/JkJByg9ly1XQmfxE49IJfvJn1HQLBip3BgvxTHU2c3rGPFO4tojvu0cV80FH6birFLOTjCrZ2VyyTn8UjKDT5VtqyxE0Xxy7UjH1BiJRZCz9p+AUL1T2Jw=='}",
+    "tokenizedTransaction": "6771d418-a99a-439f-93ed-c102367edfe6",
+    "originalTransaction": {
+        "cvv": "123",
+        "address": "123 Main St, Anytown, USA",
+        "transactionAmount": 99.99,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "cardNumber": "1234567890123456",
+        "expDate": "12/25",
+        "transactionId": "TXN-1726425542307"
+    },
+    "decryptedTransaction": "{\n    \"cvv\": \"123\",\n    \"address\": \"123 Main St, Anytown, USA\",\n    \"transactionAmount\": 99.99,\n    \"name\": \"John Doe\",\n    \"email\": \"john.doe@example.com\",\n    \"cardNumber\": \"1234567890123456\",\n    \"expDate\": \"12/25\",\n    \"transactionId\": \"TXN-1726425542307\"\n}"
+}
