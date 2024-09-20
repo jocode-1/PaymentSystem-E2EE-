@@ -55,4 +55,5 @@ public class ClientEncryption {
 
         return new String(decryptedData);
     }
+
 }
